@@ -52,13 +52,13 @@ I am a passionate Software Engineer and Game Systems Developer specializing in h
       <p>High-performance C# CLI & class library converting classic MU Online <code>MonsterSetBase.txt</code> files into OpenMU Map Editor JSON format with automated per-map splitting, direction alignment, and round-trip fidelity.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🌐 <a href="https://github.com/hellonullen/mu-online-web-panel-cms">mu-online-web-panel-cms</a></h3>
+      <h3 align="center">📡 <a href="https://github.com/hellonullen/endpoint-pulse">endpoint-pulse</a></h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/PHP-8.2-777BB4?logo=php&logoColor=white" alt="PHP 8" />
-        <img src="https://img.shields.io/badge/Frontend-Bootstrap_5-7952B3?logo=bootstrap&logoColor=white" alt="Bootstrap 5" />
+        <img src="https://img.shields.io/badge/.NET-9.0-512BD4?logo=dotnet&logoColor=white" alt=".NET 9" />
+        <img src="https://img.shields.io/badge/DevOps-Monitoring-blue?logo=docker&logoColor=white" alt="DevOps" />
         <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="MIT" />
       </p>
-      <p>Modern, responsive server management portal and web CMS featuring real-time ranking leaderboards, dynamic drop monitors, gamified reward systems, and multi-language internationalization.</p>
+      <p>Fast, lightweight CLI health monitor and alerting tool for HTTP, HTTPS, and TCP endpoints featuring real-time latency probing, SSL certificate expiration countdown, and Discord/Telegram alert webhooks.</p>
     </td>
   </tr>
 </table>
