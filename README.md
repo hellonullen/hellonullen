@@ -61,6 +61,27 @@ I am a passionate Software Engineer and Game Systems Developer specializing in h
       <p>Fast, lightweight CLI health monitor and alerting tool for HTTP, HTTPS, and TCP endpoints featuring real-time latency probing, SSL certificate expiration countdown, and Discord/Telegram alert webhooks.</p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">⚡ <a href="https://github.com/hellonullen/fast-mock-api">fast-mock-api</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Node.js-%3E%3D18.0.0-339933?logo=node.js&logoColor=white" alt="Node.js" />
+        <img src="https://img.shields.io/badge/Dependencies-0-brightgreen.svg" alt="0 deps" />
+        <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="MIT" />
+      </p>
+      <p>Zero-dependency, lightning-fast Node.js CLI & server to spin up instant RESTful mock APIs with CRUD routes, full-text search, filtering, pagination, and latency simulation.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🌐 <a href="https://github.com/hellonullen/mu-online-web-panel-cms">mu-online-web-panel-cms</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/PHP-8.2-777BB4?logo=php&logoColor=white" alt="PHP 8" />
+        <img src="https://img.shields.io/badge/Frontend-Bootstrap_5-7952B3?logo=bootstrap&logoColor=white" alt="Bootstrap 5" />
+        <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="MIT" />
+      </p>
+      <p>Modern, responsive server management portal and web CMS featuring real-time ranking leaderboards, dynamic drop monitors, gamified reward systems, and multi-language internationalization.</p>
+    </td>
+  </tr>
+  </tr>
 </table>
 
 ---
