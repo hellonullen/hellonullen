@@ -12,8 +12,8 @@
   <a href="https://kadircanuredi.com.tr" target="_blank">
     <img src="https://img.shields.io/badge/Official_Website-kadircanuredi.com.tr-0ea5e9?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Official Website" />
   </a>
-  <a href="mailto:contact@kadircanuredi.com.tr">
-    <img src="https://img.shields.io/badge/Email-contact@kadircanuredi.com.tr-10b981?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:hellonullen@gmail.com">
+    <img src="https://img.shields.io/badge/Email-hellonullen@gmail.com-10b981?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
 
