@@ -8,12 +8,22 @@
   </a>
 </div>
 
+<div align="center">
+  <a href="https://kadircanuredi.com.tr" target="_blank">
+    <img src="https://img.shields.io/badge/Official_Website-kadircanuredi.com.tr-0ea5e9?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Official Website" />
+  </a>
+  <a href="mailto:contact@kadircanuredi.com.tr">
+    <img src="https://img.shields.io/badge/Email-contact@kadircanuredi.com.tr-10b981?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
+
 <br/>
 
 ### 👨‍💻 About Me
 
 I am a passionate Software Engineer and Game Systems Developer specializing in high-performance backends, game server architectures, and modern web portals. With deep expertise in network protocols, memory management, and database design, I build scalable tools and platforms connecting legacy game systems with modern cloud-native architectures.
 
+- 🌐 **Personal Website & Portfolio:** [https://kadircanuredi.com.tr](https://kadircanuredi.com.tr)
 - 🔭 **Current Focus:** High-performance developer tools, game emulation systems (OpenMU), and distributed services.
 - 🎮 **Game Tech:** Deep expertise in MU Online network protocols, packet structures, real-time socket communications, and server engines.
 - 🛠️ **Architecture:** Clean Architecture, Domain-Driven Design (DDD), Modular Pipelines, and CI/CD Automation.
@@ -101,5 +111,6 @@ I am a passionate Software Engineer and Game Systems Developer specializing in h
 
 <div align="center">
   <p><i>"Quality is not an act, it is a habit."</i></p>
+  <p>Engineering Portfolio & Consultancy: <a href="https://kadircanuredi.com.tr"><b>kadircanuredi.com.tr</b></a></p>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,15,30&height=100&section=footer" width="100%" alt="Footer" />
 </div>
